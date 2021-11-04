@@ -1,0 +1,11 @@
+error:  Error: Invalid URI "fetcher.js"
+    at Request.init (/Users/maninder/webnotes/w2/d3/page-fetcher/node_modules/request/request.js:273:31)
+    at new Request (/Users/maninder/webnotes/w2/d3/page-fetcher/node_modules/request/request.js:127:8)
+    at request (/Users/maninder/webnotes/w2/d3/page-fetcher/node_modules/request/index.js:53:10)
+    at req (/Users/maninder/webnotes/w2/d3/page-fetcher/fetcher.js:17:3)
+    at Object.<anonymous> (/Users/maninder/webnotes/w2/d3/page-fetcher/fetcher.js:54:1)
+    at Module._compile (node:internal/modules/cjs/loader:1092:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1121:10)
+    at Module.load (node:internal/modules/cjs/loader:972:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
